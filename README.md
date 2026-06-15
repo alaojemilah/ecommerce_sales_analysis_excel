@@ -1,4 +1,4 @@
- 🛍️ E-Commerce Sales Analysis
+# E-Commerce Sales Analysis
 ## Excel Dashboard | Global E-Commerce Sales Data
 
 ---
