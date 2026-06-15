@@ -99,6 +99,6 @@ This project demonstrates the use of Excel lookup functions and data modeling to
 ---
 
 *Connect with me!*
-📂 Portfolio: 
-🔗 Repository: e-commerce-sales-analysis-excel on GitHub
+📂 Portfolio by: Jemilah Alao
+🔗 Repository: 
 📧 Email: alao.jemilah@gmail.com
