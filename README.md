@@ -100,5 +100,5 @@ This project demonstrates the use of Excel lookup functions and data modeling to
 
 *Connect with me!*
 📂 Portfolio by: Jemilah Alao
-🔗 Repository: 
+🔗 Repository: https://github.com/alaojemilah/ecommerce_sales_analysis_excel
 📧 Email: alao.jemilah@gmail.com
